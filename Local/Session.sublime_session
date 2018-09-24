@@ -1211,6 +1211,7 @@
 			],
 			"file_history":
 			[
+				"/home/wcg/Blog/source/_posts/django-command.md",
 				"/home/wcg/Blog/source/_posts/djangorestframework-page-cache.md",
 				"/home/wcg/Blog/source/_posts/dajangorestframework-page-cache.md",
 				"/home/wcg/PycharmProjects/Test/fluent_python/average.py",
@@ -1337,8 +1338,7 @@
 				"/home/wcg/Documents/tendency/itswcg.conf",
 				"/home/wcg/Documents/tendency/index.html",
 				"/home/wcg/Documents/tendency/nginx.conf",
-				"/home/wcg/Documents/tendency/blog.conf",
-				"/home/wcg/PycharmProjects/webhook/README.md"
+				"/home/wcg/Documents/tendency/blog.conf"
 			],
 			"find":
 			{
