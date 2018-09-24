@@ -1,0 +1,11 @@
+{
+
+	"python_interpreter": "/bin/python",
+    "complete_parameters": false,
+    "anaconda_linting":false,
+    "swallow_startup_errors": true,
+    "enable_signatures_tooltip": false,
+    "enable_docstrings_tooltip": true,
+    "merge_signatures_and_doc": true,
+}
+

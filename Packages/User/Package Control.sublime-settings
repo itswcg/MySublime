@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"Colorsublime",
+		"Evernote",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"JsFormat",
+		"MarkdownEditing",
+		"Material Theme",
+		"Monokai Extended",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"PackageResourceViewer",
+		"Predawn",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Table Editor"
+	]
+}
