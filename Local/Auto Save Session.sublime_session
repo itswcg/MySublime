@@ -12,17 +12,29 @@
 		"/home/vgreen/PycharmProjects/socket"
 	],
 	"last_version": 3175,
-	"last_window_id": 117,
+	"last_window_id": 118,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 961.0,
+		"new_window_height": 950.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"cal",
+						"calculate_key"
+					],
+					[
+						"pac",
+						"package_name"
+					],
+					[
+						"pa",
+						"package_name"
+					],
 					[
 						"date",
 						"datetime\tclass"
@@ -82,10 +94,6 @@
 					[
 						"du",
 						"dumps\tfunction"
-					],
-					[
-						"cal",
-						"cal_qj_number\tfunction"
 					],
 					[
 						"Is",
@@ -400,6 +408,22 @@
 				"selected_items":
 				[
 					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git add ",
+						"Git: Add Current File"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
 						"Package Control: ",
 						"Package Control: Upgrade/Overwrite All Packages"
 					],
@@ -489,9 +513,29 @@
 			},
 			"file_history":
 			[
+				"/home/wcg/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/Default (Linux).sublime-keymap",
+				"/home/wcg/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/wcg/.config/sublime-text-3/Packages/Anaconda/Default (Linux).sublime-keymap",
+				"/home/wcg/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+				"/home/wcg/PycharmProjects/Test/fluent_python/猴子补丁.py",
+				"/home/wcg/PycharmProjects/Test/fluent_python/map-reduce.py",
+				"/home/wcg/PycharmProjects/Test/fluent_python/tuple.py",
+				"/home/wcg/Blog/source/_posts/django-command.md",
+				"/home/wcg/Blog/source/_posts/djangorestframework-page-cache.md",
+				"/home/wcg/Blog/source/_posts/dajangorestframework-page-cache.md",
+				"/home/wcg/PycharmProjects/Test/fluent_python/average.py",
+				"/home/wcg/PycharmProjects/Test/fluent_python/元组的相对不可变.py",
+				"/home/wcg/桌面/ 大亲家/config",
+				"/home/wcg/PycharmProjects/Test/fluent_python/字符.py",
+				"/home/wcg/PycharmProjects/Test/fluent_python/hash.py",
+				"/home/wcg/Blog/source/_posts/GNU-Linux.md",
+				"/home/wcg/software/autoproxy.pac",
+				"/home/wcg/software/charles/bin/add-to-java-cacerts.sh",
+				"/home/wcg/PycharmProjects/hysteria-gzh/venv/bin/django-admin",
+				"/home/wcg/Blog/source/_posts/bootcamp2.md",
+				"/home/wcg/Blog/source/_posts/celery.md",
 				"/home/wcg/PycharmProjects/Hysteria/hysteria/urls.py",
 				"/home/wcg/Blog/source/_posts/fluent-python.md",
-				"/home/wcg/Blog/source/_posts/celery.md",
 				"/home/wcg/Blog/source/_posts/django-model.md",
 				"/home/wcg/PycharmProjects/Hysteria/hysteria/apps/ad/views.py",
 				"/home/wcg/Blog/source/_posts/mysql-sql.md",
@@ -503,14 +547,11 @@
 				"/home/wcg/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
 				"/home/wcg/PycharmProjects/Hysteria/hysteria/settings/base.py",
 				"/home/wcg/PycharmProjects/Hysteria/libs/share_pages/share.html",
-				"/home/wcg/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
 				"/home/wcg/PycharmProjects/Hysteria/hysteria/settings/base.pyc",
 				"/home/wcg/PycharmProjects/Hysteria/hysteria/apps/h5/views.py",
 				"/home/wcg/PycharmProjects/Hysteria/hysteria/celery_task.py",
 				"/home/wcg/.config/sublime-text-3/Packages/Colorsublime/Colorsublime.sublime-settings",
 				"/home/wcg/PycharmProjects/Test/fluent_python/test.py",
-				"/home/wcg/桌面/ 大亲家/config",
-				"/home/wcg/Blog/source/_posts/GNU-Linux.md",
 				"/home/wcg/Blog/source/_posts/mysql.md",
 				"/home/wcg/.config/sublime-text-3/Packages/OmniMarkupPreviewer/OmniMarkupPreviewer.sublime-settings",
 				"/home/wcg/.config/sublime-text-3/Packages/OmniMarkupPreviewer/OmniMarkupPreviewer.py",
@@ -599,24 +640,7 @@
 				"/home/wcg/pywxpay.py",
 				"/home/wcg/Blog/source/_posts/linux.md",
 				"/home/wcg/Blog/source/_posts/ubuntu.md",
-				"/home/wcg/Blog/source/_posts/mysql-index.md",
-				"/home/wcg/Blog/source/_posts/git.md",
-				"/home/wcg/Documents/tendency/todo.conf",
-				"/home/wcg/Documents/tendency/itswcg.conf",
-				"/home/wcg/Documents/tendency/index.html",
-				"/home/wcg/Documents/tendency/nginx.conf",
-				"/home/wcg/Documents/tendency/blog.conf",
-				"/home/wcg/PycharmProjects/webhook/README.md",
-				"/home/wcg/PycharmProjects/Hysteria/.git/hooks/pre-receive.sample",
-				"/home/wcg/Blog/themes/next/layout/_partials/head.swig",
-				"/home/wcg/Blog/public/index.html",
-				"/home/wcg/Desktop/django-2.1/django/contrib/admin/templatetags/admin_modify.py",
-				"/home/wcg/Desktop/django-2.1/django/contrib/admin/templates/admin/change_form.html",
-				"/home/wcg/Desktop/django-2.1/django/contrib/admin/templates/admin/change_list.html",
-				"/home/wcg/Desktop/django-2.1/django/contrib/admin/templates/admin/index.html",
-				"/home/wcg/Blog/themes/next/layout/_partials/head/external-fonts.swig",
-				"/home/wcg/Blog/themes/next/layout/_partials/head/custom-head.swig",
-				"/home/wcg/Documents/blog.conf"
+				"/home/wcg/Blog/source/_posts/mysql-index.md"
 			],
 			"find":
 			{
@@ -665,11 +689,15 @@
 			},
 			"output.exec":
 			{
-				"height": 277.0
+				"height": 365.0
 			},
 			"output.find_results":
 			{
 				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 145.0
 			},
 			"output.unsaved_changes":
 			{
@@ -718,7 +746,7 @@
 			{
 			}
 		},
-		"new_window_width": 936.0
+		"new_window_width": 791.0
 	},
 	"windows":
 	[
@@ -1007,6 +1035,33 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/home/wcg/PycharmProjects/Test/fluent_python/多重继承.py",
+					"settings":
+					{
+						"buffer_size": 587,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/wcg/PycharmProjects/HTML/html/number-guessing-game-start.html",
+					"settings":
+					{
+						"buffer_size": 3351,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/wcg/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/Default (Linux).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 393,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -1116,16 +1171,16 @@
 				"selected_items":
 				[
 					[
-						"git push",
-						"Git: Push"
-					],
-					[
 						"git com",
 						"Git: Commit"
 					],
 					[
 						"git add ",
 						"Git: Add Current File"
+					],
+					[
+						"git push",
+						"Git: Push"
 					],
 					[
 						"git commit",
@@ -1227,6 +1282,10 @@
 			],
 			"file_history":
 			[
+				"/home/wcg/.config/sublime-text-3/Packages/Anaconda/Default (Linux).sublime-keymap",
+				"/home/wcg/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/Default (Linux).sublime-keymap",
+				"/home/wcg/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/wcg/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
 				"/home/wcg/PycharmProjects/Test/fluent_python/猴子补丁.py",
 				"/home/wcg/PycharmProjects/Test/fluent_python/map-reduce.py",
 				"/home/wcg/PycharmProjects/Test/fluent_python/tuple.py",
@@ -1257,7 +1316,6 @@
 				"/home/wcg/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
 				"/home/wcg/PycharmProjects/Hysteria/hysteria/settings/base.py",
 				"/home/wcg/PycharmProjects/Hysteria/libs/share_pages/share.html",
-				"/home/wcg/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
 				"/home/wcg/PycharmProjects/Hysteria/hysteria/settings/base.pyc",
 				"/home/wcg/PycharmProjects/Hysteria/hysteria/apps/h5/views.py",
 				"/home/wcg/PycharmProjects/Hysteria/hysteria/celery_task.py",
@@ -1351,10 +1409,7 @@
 				"/home/wcg/pywxpay.py",
 				"/home/wcg/Blog/source/_posts/linux.md",
 				"/home/wcg/Blog/source/_posts/ubuntu.md",
-				"/home/wcg/Blog/source/_posts/mysql-index.md",
-				"/home/wcg/Blog/source/_posts/git.md",
-				"/home/wcg/Documents/tendency/todo.conf",
-				"/home/wcg/Documents/tendency/itswcg.conf"
+				"/home/wcg/Blog/source/_posts/mysql-index.md"
 			],
 			"find":
 			{
@@ -1397,8 +1452,110 @@
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/home/wcg/PycharmProjects/Test/fluent_python/多重继承.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 587,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										587,
+										587
+									]
+								],
+								"settings":
+								{
+									"auto_complete_triggers":
+									[
+										{
+											"characters": ".",
+											"selector": "source.python - string - comment - constant.numeric"
+										},
+										{
+											"characters": ".",
+											"selector": "source.python - string - constant.numeric"
+										}
+									],
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 175.473579262,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/wcg/PycharmProjects/HTML/html/number-guessing-game-start.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3351,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3351,
+										3351
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2399.80059821,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/wcg/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/Default (Linux).sublime-keymap",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 393,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										27,
+										27
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -1439,7 +1596,7 @@
 			},
 			"output.exec":
 			{
-				"height": 133.0
+				"height": 365.0
 			},
 			"output.find_results":
 			{
@@ -1454,7 +1611,7 @@
 				"height": 146.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,1009,100,1800,1050,1920,1080",
+			"position": "0,1,0,0,0,1008,19,1799,969,1920,1080",
 			"project": "",
 			"replace":
 			{
