@@ -768,6 +768,18 @@
 				"selected_items":
 				[
 					[
+						"text-",
+						"text-align\tproperty"
+					],
+					[
+						"bac",
+						"background-color\tproperty"
+					],
+					[
+						"st",
+						"stylesheet"
+					],
+					[
 						"cls",
 						"cls_attrs\tstatement"
 					],
@@ -838,10 +850,6 @@
 					[
 						"cc",
 						"cc_list"
-					],
-					[
-						"st",
-						"stdout\tinstance"
 					],
 					[
 						"read",
@@ -1143,7 +1151,7 @@
 					"file": "/home/wcg/PycharmProjects/HTML/Web入门.md",
 					"settings":
 					{
-						"buffer_size": 85,
+						"buffer_size": 256,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -1152,7 +1160,7 @@
 					"file": "/home/wcg/PycharmProjects/HTML/project/index.html",
 					"settings":
 					{
-						"buffer_size": 422,
+						"buffer_size": 527,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -1161,7 +1169,7 @@
 					"file": "/home/wcg/PycharmProjects/HTML/project/styles/style.css",
 					"settings":
 					{
-						"buffer_size": 69,
+						"buffer_size": 857,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -1275,12 +1283,16 @@
 				"selected_items":
 				[
 					[
-						"view",
-						"View: Toggle Menu"
+						"liv",
+						"LiveReload: Enable/disable plug-ins"
 					],
 					[
 						"live",
 						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"view",
+						"View: Toggle Menu"
 					],
 					[
 						"LiveReload: Enable/disable plugins",
@@ -1452,14 +1464,14 @@
 			],
 			"file_history":
 			[
+				"/home/wcg/.config/sublime-text-3/Packages/User/LiveReload.sublime-settings",
+				"/home/wcg/.config/sublime-text-3/Packages/LiveReload/LiveReload.sublime-settings",
 				"/home/wcg/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
 				"/home/wcg/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
-				"/home/wcg/.config/sublime-text-3/Packages/LiveReload/LiveReload.sublime-settings",
 				"/home/wcg/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/Default (Linux).sublime-keymap",
 				"/home/wcg/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
 				"/home/wcg/.config/sublime-text-3/Packages/User/.jsbeautifyrc",
 				"/home/wcg/.config/sublime-text-3/Packages/User/HTMLPrettify.sublime-settings",
-				"/home/wcg/.config/sublime-text-3/Packages/User/LiveReload.sublime-settings",
 				"/home/wcg/PycharmProjects/HTML/README.md",
 				"/home/wcg/桌面/ 大亲家/config",
 				"/home/wcg/Blog/source/_posts/python-asyncio.md",
@@ -1629,7 +1641,7 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
@@ -1638,15 +1650,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 85,
+								"buffer_size": 256,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										85,
-										85
+										256,
+										256
 									]
 								],
 								"settings":
@@ -1657,7 +1669,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
@@ -1666,15 +1678,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 422,
+								"buffer_size": 527,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										200,
-										200
+										321,
+										321
 									]
 								],
 								"settings":
@@ -1682,10 +1694,10 @@
 									"syntax": "Packages/HTML/HTML.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 74.7756729811,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 0,
 							"type": "text"
 						},
 						{
@@ -1694,15 +1706,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 69,
+								"buffer_size": 857,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										69,
-										69
+										857,
+										857
 									]
 								],
 								"settings":
@@ -1710,7 +1722,7 @@
 									"syntax": "Packages/CSS/CSS.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 449.651046859,
 								"zoom_level": 1.0
 							},
 							"stack_index": 2,
@@ -1749,7 +1761,7 @@
 					1.0
 				]
 			},
-			"menu_visible": true,
+			"menu_visible": false,
 			"output.autopep8":
 			{
 				"height": 0.0
@@ -1771,7 +1783,7 @@
 				"height": 146.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,906,289,1712,1235,1920,1080",
+			"position": "0,0,0,0,0,1001,149,1807,1095,1920,1080",
 			"project": "",
 			"replace":
 			{

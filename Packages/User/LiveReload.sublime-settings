@@ -1,6 +1,6 @@
 {
-　　"enabled_plugins": [
-　　"SimpleReloadPlugin",
-　　"SimpleRefresh"
-　　 ]
+    "enabled_plugins": [
+        "SimpleReloadPlugin",
+        "SimpleRefresh"
+    ]
 }
