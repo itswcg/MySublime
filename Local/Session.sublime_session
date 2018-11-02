@@ -12,11 +12,11 @@
 		"/home/vgreen/PycharmProjects/socket"
 	],
 	"last_version": 3175,
-	"last_window_id": 120,
+	"last_window_id": 121,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 950.0,
+		"new_window_height": 884.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -24,749 +24,45 @@
 				"selected_items":
 				[
 					[
-						"cal",
-						"calculate_key"
+						"fo",
+						"footer\tTag"
 					],
 					[
-						"pac",
-						"package_name"
+						"hea",
+						"header\tTag"
 					],
 					[
-						"pa",
-						"package_name"
+						"Ma",
+						"Mailing_address"
 					],
 					[
-						"date",
-						"datetime\tclass"
+						"json",
+						"jsonUser\tstatement"
 					],
 					[
-						"s",
-						"s_timt\tstatement"
+						"js",
+						"jsonUser\tstatement"
 					],
 					[
-						"cres",
-						"create_multipliers\tfunction"
-					],
-					[
-						"CL",
-						"COLUMN"
-					],
-					[
-						"A",
-						"AUTO_INCREMENT"
-					],
-					[
-						"t",
-						"timedelta\tclass"
-					],
-					[
-						"rest",
-						"resetBotton"
-					],
-					[
-						"txt",
-						"textContent"
-					],
-					[
-						"text",
-						"textContent"
-					],
-					[
-						"random",
-						"randomNumber"
-					],
-					[
-						"gu",
-						"guessField"
-					],
-					[
-						"low",
-						"lowOrHi"
-					],
-					[
-						"for",
-						"for\tfor (…) {…}"
-					],
-					[
-						"creat",
-						"createParagraph"
-					],
-					[
-						"du",
+						"dum",
 						"dumps\tfunction"
 					],
 					[
-						"Is",
-						"IsAdminUser"
+						"my",
+						"myHeading"
 					],
 					[
-						"per",
-						"permission_classes\tstatement"
+						"set",
+						"setUserName"
 					],
 					[
-						"api",
-						"api_view"
+						"avat",
+						"avatar"
 					],
 					[
-						"redis",
-						"redisChat"
+						"num",
+						"num1"
 					],
-					[
-						"loc",
-						"locat\tstatement"
-					],
-					[
-						"loca",
-						"locations"
-					],
-					[
-						"lo",
-						"locations\tstatement"
-					],
-					[
-						"img",
-						"imageUri"
-					],
-					[
-						"csr",
-						"csrf_exempt\tmodule"
-					],
-					[
-						"si",
-						"signTimestamp\tstatement"
-					],
-					[
-						"rcl",
-						"rcloud\tstatement"
-					],
-					[
-						"status",
-						"status_code\tstatement"
-					],
-					[
-						"sign",
-						"signature"
-					],
-					[
-						"get",
-						"getToken\tfunction"
-					],
-					[
-						"stat",
-						"status\tmodule"
-					],
-					[
-						"R",
-						"Response\tclass"
-					],
-					[
-						"sy",
-						"syncMessage\tfunction"
-					],
-					[
-						"app",
-						"app_secret"
-					],
-					[
-						"n",
-						"nonce\tparam"
-					],
-					[
-						"tim",
-						"timestamp\tstatement"
-					],
-					[
-						"padding",
-						"padding-left"
-					],
-					[
-						"margin",
-						"margin-left"
-					],
-					[
-						"ma",
-						"matches\tstatement"
-					],
-					[
-						"des",
-						"des2\tstatement"
-					],
-					[
-						"Kme",
-						"KMeansClassifier\tclass"
-					],
-					[
-						"Km",
-						"KMeansClassifier\tclass"
-					],
-					[
-						"descrop",
-						"descriptors\tstatement"
-					],
-					[
-						"action",
-						"ActionChains\tmodule"
-					],
-					[
-						"merge",
-						"merge_pdf\tfunction"
-					],
-					[
-						"fin",
-						"find_all"
-					],
-					[
-						"op",
-						"options\tstatement"
-					],
-					[
-						"Time",
-						"TimeoutException\tmodule"
-					],
-					[
-						"html",
-						"html2text\tmodule"
-					],
-					[
-						"par",
-						"parse_url_to_html\tfunction"
-					],
-					[
-						"deco",
-						"decorated_function"
-					],
-					[
-						"mim",
-						"minimumTotal\tfunction"
-					],
-					[
-						"to_",
-						"to_user_username\tstatement"
-					],
-					[
-						"conver",
-						"conversations\tstatement"
-					],
-					[
-						"conversations",
-						"get_conversations"
-					],
-					[
-						"act",
-						"active_conversation\tstatement"
-					],
-					[
-						"has",
-						"has_accepted_answer"
-					],
-					[
-						"HttpR",
-						"HttpResponse\tmodule"
-					],
-					[
-						"ar",
-						"article"
-					],
-					[
-						"pu",
-						"popular_tags\tstatement"
-					],
-					[
-						"upl",
-						"uploader"
-					],
-					[
-						"bootcamp",
-						"bootcamp2\tmodule"
-					],
-					[
-						"from",
-						"from_feed\tparam"
-					],
-					[
-						"Base",
-						"BASE_DIR\tstatement"
-					],
-					[
-						"Ya",
-						"YaHei"
-					],
-					[
-						"SOCK_S",
-						"SOCK_STREAM\tinstance"
-					],
-					[
-						"rang",
-						"range\tfunction"
-					]
-				]
-			},
-			"build_system_choices":
-			[
-				[
-					[
-						[
-							"Anaconda Python Builder",
-							""
-						],
-						[
-							"Packages/Makefile/Make.sublime-build",
-							""
-						],
-						[
-							"Packages/Makefile/Make.sublime-build",
-							"Clean"
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						]
-					],
-					[
-						"Anaconda Python Builder",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Anaconda Python Builder",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						]
-					],
-					[
-						"Anaconda Python Builder",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							""
-						],
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							"Run"
-						]
-					],
-					[
-						"Packages/C++/C++ Single File.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/User/myc++.sublime-build",
-							""
-						],
-						[
-							"Packages/User/myc++.sublime-build",
-							"Run"
-						]
-					],
-					[
-						"Packages/User/myc++.sublime-build",
-						"Run"
-					]
-				]
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 349.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"view",
-						"View: Toggle Menu"
-					],
-					[
-						"git pu",
-						"Git: Push"
-					],
-					[
-						"git add",
-						"Git: Add Current File"
-					],
-					[
-						"git com",
-						"Git: Commit"
-					],
-					[
-						"git add ",
-						"Git: Add Current File"
-					],
-					[
-						"git push",
-						"Git: Push"
-					],
-					[
-						"git commit",
-						"Git: Commit"
-					],
-					[
-						"Package Control: ",
-						"Package Control: Upgrade/Overwrite All Packages"
-					],
-					[
-						"Package Control: up",
-						"Package Control: Upgrade/Overwrite All Packages"
-					],
-					[
-						"Package Control: install",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: in",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: i",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: ins",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: re",
-						"Package Control: Remove Package"
-					],
-					[
-						"Package Control: inst",
-						"Package Control: Install Package"
-					],
-					[
-						"run",
-						"Build With: C++ Single File - Run"
-					],
-					[
-						"table",
-						"Table Editor: Enable for current view"
-					],
-					[
-						"evernote",
-						"Evernote: List recent notes"
-					],
-					[
-						"co",
-						"Colorsublime: Install Theme"
-					],
-					[
-						"predawn",
-						"Preferences: MarkdownEditing Settings – User"
-					],
-					[
-						"color",
-						"Colorsublime: Install Theme"
-					],
-					[
-						"Packager",
-						"PackageResourceViewer: Open Resource"
-					],
-					[
-						"packager",
-						"PackageResourceViewer: Open Resource"
-					]
-				],
-				"width": 505.0
-			},
-			"console":
-			{
-				"height": 542.0,
-				"history":
-				[
-					"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect(/home/vgreen/.local/share/anaconda/run/flask/anaconda.sock)",
-					"PackageResourceViewer",
-					"PackageResourceViewer:",
-					"PackageResourceViewer: Open Resource:",
-					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/home/wcg/PycharmProjects/Test/fluent_python/tuple.py",
-				"/home/wcg/PycharmProjects/Hysteria/hysteria/apps/find/views.py",
-				"/home/wcg/PycharmProjects/Hysteria/hysteria/apps/api/urls.py",
-				"/home/wcg/PycharmProjects/Hysteria/hysteria/apps/find/constants.py",
-				"/home/wcg/PycharmProjects/Test/fluent_python/多重继承.py",
-				"/home/wcg/PycharmProjects/HTML/html/number-guessing-game-start.html",
-				"/home/wcg/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/Default (Linux).sublime-keymap",
-				"/home/wcg/.config/sublime-text-3/Packages/Anaconda/Default (Linux).sublime-keymap",
-				"/home/wcg/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/home/wcg/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
-				"/home/wcg/PycharmProjects/Test/fluent_python/猴子补丁.py",
-				"/home/wcg/PycharmProjects/Test/fluent_python/map-reduce.py",
-				"/home/wcg/Blog/source/_posts/django-command.md",
-				"/home/wcg/Blog/source/_posts/djangorestframework-page-cache.md",
-				"/home/wcg/Blog/source/_posts/dajangorestframework-page-cache.md",
-				"/home/wcg/PycharmProjects/Test/fluent_python/average.py",
-				"/home/wcg/PycharmProjects/Test/fluent_python/元组的相对不可变.py",
-				"/home/wcg/桌面/ 大亲家/config",
-				"/home/wcg/PycharmProjects/Test/fluent_python/字符.py",
-				"/home/wcg/PycharmProjects/Test/fluent_python/hash.py",
-				"/home/wcg/Blog/source/_posts/GNU-Linux.md",
-				"/home/wcg/software/autoproxy.pac",
-				"/home/wcg/software/charles/bin/add-to-java-cacerts.sh",
-				"/home/wcg/PycharmProjects/hysteria-gzh/venv/bin/django-admin",
-				"/home/wcg/Blog/source/_posts/bootcamp2.md",
-				"/home/wcg/Blog/source/_posts/celery.md",
-				"/home/wcg/PycharmProjects/Hysteria/hysteria/urls.py",
-				"/home/wcg/Blog/source/_posts/fluent-python.md",
-				"/home/wcg/Blog/source/_posts/django-model.md",
-				"/home/wcg/PycharmProjects/Hysteria/hysteria/apps/ad/views.py",
-				"/home/wcg/Blog/source/_posts/mysql-sql.md",
-				"/home/wcg/PycharmProjects/hysteria-backend-xcx/README.md",
-				"/home/wcg/PycharmProjects/Hysteria/manage.py",
-				"/home/wcg/PycharmProjects/Hysteria/README.md",
-				"/home/wcg/PycharmProjects/Hysteria/libs/share_pages/share-girl.html",
-				"/home/wcg/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
-				"/home/wcg/PycharmProjects/Hysteria/hysteria/settings/base.py",
-				"/home/wcg/PycharmProjects/Hysteria/libs/share_pages/share.html",
-				"/home/wcg/PycharmProjects/Hysteria/hysteria/settings/base.pyc",
-				"/home/wcg/PycharmProjects/Hysteria/hysteria/apps/h5/views.py",
-				"/home/wcg/PycharmProjects/Hysteria/hysteria/celery_task.py",
-				"/home/wcg/.config/sublime-text-3/Packages/Colorsublime/Colorsublime.sublime-settings",
-				"/home/wcg/PycharmProjects/Test/fluent_python/test.py",
-				"/home/wcg/Blog/source/_posts/mysql.md",
-				"/home/wcg/.config/sublime-text-3/Packages/OmniMarkupPreviewer/OmniMarkupPreviewer.sublime-settings",
-				"/home/wcg/.config/sublime-text-3/Packages/OmniMarkupPreviewer/OmniMarkupPreviewer.py",
-				"/home/wcg/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
-				"/home/wcg/文档/tendency/index.html",
-				"/home/wcg/文档/tendency/nginx.conf",
-				"/home/wcg/文档/tendency/supervisor.conf",
-				"/home/wcg/桌面/tendency/index.html",
-				"/home/wcg/下载/config",
-				"/home/wcg/.ssh/id_rsa.pub",
-				"/home/wcg/PycharmProjects/Hysteria/hysteria/templates/select_admin_template.html",
-				"/home/wcg/PycharmProjects/Hysteria/hysteria/celery_task.pyc",
-				"/home/wcg/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
-				"/home/wcg/Desktop/大亲家/key.md",
-				"/home/wcg/Desktop/大亲家/dist/views/index.html",
-				"/home/wcg/Desktop/大亲家/dist/styles/payment.css",
-				"/home/wcg/Desktop/大亲家/dist/public/payment.js",
-				"/home/wcg/Desktop/大亲家/dist/public/require.js",
-				"/home/wcg/Desktop/大亲家/dist/public/share.js",
-				"/home/wcg/Desktop/大亲家/dist/public/vip-phone.js",
-				"/home/wcg/Desktop/大亲家/dist/public/contant.js",
-				"/home/wcg/Desktop/大亲家/dist/public/wechat.js",
-				"/home/wcg/Desktop/大亲家/dist/views/payment.html",
-				"/home/wcg/Desktop/大亲家/dist/views/list.html",
-				"/home/wcg/Desktop/大亲家/dist/styles/list.css",
-				"/home/wcg/Desktop/大亲家/dist/styles/index.css",
-				"/home/wcg/.config/sublime-text-3/Packages/JsFormat/JsFormat.sublime-settings",
-				"/home/wcg/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
-				"/home/wcg/Desktop/大亲家/2E7DD5C0-0A0C-4634-8B0C-C5D37F6069A3.txt",
-				"/home/wcg/.cache/.fr-bRRjst/dist/public/share.js",
-				"/home/wcg/Desktop/大亲家/dist/views/share.html",
-				"/home/wcg/Desktop/大亲家/5BE0D812-6BAA-4dc0-8F5D-645B7F8CDA52.txt",
-				"/home/wcg/Desktop/大亲家/地址.py",
-				"/home/wcg/Desktop/大亲家/EB9FE842-70BF-4c4e-9BD8-714EB4A27B64.txt",
-				"/home/wcg/Desktop/大亲家/C58ABA1A-8B02-4b7b-9925-5C41782F89A8.txt",
-				"/home/wcg/Desktop/大亲家/ED601AB4-6BAD-457a-AEEA-F9E94F28E69C.txt",
-				"/home/wcg/Desktop/大亲家/F4DDE0DE-16B3-4ee8-B77D-BA25694F446C.txt",
-				"/home/wcg/Desktop/大亲家/5E02A735-AB6C-4d47-90EC-4929F3FB7FFB.txt",
-				"/home/wcg/Desktop/大亲家/E5FA518E-B2C6-4fba-AF57-10192323E1C6.txt",
-				"/home/wcg/Desktop/大亲家/688776EB-BC2A-4fdd-97ED-463D87D0468C.txt",
-				"/home/wcg/Desktop/大亲家/F5F73AE3-FC1B-484f-8C13-5A678342FE94.txt",
-				"/home/wcg/Desktop/test.py",
-				"/home/wcg/Desktop/gzh.conf",
-				"/home/wcg/Downloads/MP_verify_kOdfDuhLxiMIFMTE.txt",
-				"/home/wcg/Downloads/MP_verify_kOdfDuhLxiMIFMTE (4).txt",
-				"/home/wcg/Downloads/MP_verify_kOdfDuhLxiMIFMTE (3).txt",
-				"/home/wcg/PycharmProjects/Hysteria/hysteria/apps/support/views.py",
-				"/home/wcg/Desktop/大亲家/dist/styles/share.css",
-				"/home/wcg/PycharmProjects/Hysteria/hysteria/apps/support/urls.py",
-				"/home/wcg/.config/sublime-text-3/Packages/JsFormat/Default (Linux).sublime-keymap",
-				"/home/wcg/PycharmProjects/Todo/todo/apps/web/views.py",
-				"/home/wcg/.cache/.fr-J2CaXp/dist/styles/share.css",
-				"/home/wcg/.cache/.fr-cDaDzk/dist/public/share.js",
-				"/home/wcg/.cache/.fr-B9YJyj/dist/views/share.html",
-				"/home/wcg/Desktop/大亲家/dist/views/index2.html",
-				"/home/wcg/Desktop/大亲家/dist/views/head.html",
-				"/home/wcg/Desktop/大亲家/dist/public/http.js",
-				"/home/wcg/PycharmProjects/Todo/todo/apps/web/urls.py",
-				"/home/wcg/PycharmProjects/Todo/todo/apps/web/admin.py",
-				"/home/wcg/PycharmProjects/Todo/todo/templates/base.html",
-				"/home/wcg/PycharmProjects/Todo/todo/apps/core/admin.py",
-				"/home/wcg/PycharmProjects/Todo/todo/templates/web/task.html",
-				"/home/wcg/Downloads/MP_verify_kOdfDuhLxiMIFMTE (2).txt",
-				"/home/wcg/Downloads/MP_verify_kOdfDuhLxiMIFMTE (1).txt",
-				"/home/wcg/PycharmProjects/Todo/todo/templates/web/todo.html",
-				"/home/wcg/PycharmProjects/Hysteria/hysteria/apps/core/admin_view.py",
-				"/home/wcg/PycharmProjects/Todo/todo/templates/web/_todo_Today.html",
-				"/home/wcg/Desktop/大亲家/dist/views/vip-phone.html",
-				"/home/wcg/Blog/source/_posts/build-vpn.md",
-				"/home/wcg/Blog/source/_posts/vps-deploy.md",
-				"/home/wcg/PycharmProjects/Todo/todo/apps/api/views.py",
-				"/home/wcg/PycharmProjects/Todo/todo/apps/api/serializers.py",
-				"/home/wcg/PycharmProjects/Todo/todo/apps/api/models.py",
-				"/home/wcg/PycharmProjects/Hysteria/hysteria/settings/dev.py",
-				"/home/wcg/PycharmProjects/Hysteria/hysteria/apps/api/utils.py",
-				"/home/wcg/PycharmProjects/Hysteria/hysteria/apps/api/pipeline.py",
-				"/home/wcg/PycharmProjects/Hysteria/hysteria/apps/api/views.py",
-				"/home/wcg/PycharmProjects/Hysteria/hysteria/apps/api/authentications.py",
-				"/home/wcg/PycharmProjects/Hysteria/hysteria/apps/core/models.py",
-				"/home/wcg/PycharmProjects/Todo/todo/apps/core/models.py",
-				"/home/wcg/PycharmProjects/Todo/todo/__init__.py",
-				"/home/wcg/Blog/source/_posts/work-working.md",
-				"/home/wcg/Blog/source/_posts/python-guide.md",
-				"/home/wcg/Blog/themes/next/_config.yml",
-				"/home/wcg/Blog/themes/草稿/linux.md"
-			],
-			"find":
-			{
-				"height": 31.9042871386
-			},
-			"find_in_files":
-			{
-				"height": 169.0,
-				"where_history":
-				[
-					""
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"syntax on"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 31.9042871386
-			},
-			"input":
-			{
-				"height": 64.0
-			},
-			"menu_visible": true,
-			"output.autopep8":
-			{
-				"height": 0.0
-			},
-			"output.exec":
-			{
-				"height": 365.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"output.git":
-			{
-				"height": 145.0
-			},
-			"output.unsaved_changes":
-			{
-				"height": 146.0
-			},
-			"pinned_build_system": "",
-			"replace":
-			{
-				"height": 59.8205383848
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 475.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 361.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": false,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": false,
-			"side_bar_width": 218.0,
-			"status_bar_visible": false,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 791.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
 					[
 						"text-",
 						"text-align\tproperty"
@@ -794,10 +90,6 @@
 					[
 						"qty",
 						"qty_setter\tfunction"
-					],
-					[
-						"set",
-						"setattr\tfunction"
 					],
 					[
 						"qu",
@@ -1145,37 +437,6 @@
 					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"file": "/home/wcg/PycharmProjects/HTML/Web入门.md",
-					"settings":
-					{
-						"buffer_size": 256,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/wcg/PycharmProjects/HTML/project/index.html",
-					"settings":
-					{
-						"buffer_size": 527,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/wcg/PycharmProjects/HTML/project/styles/style.css",
-					"settings":
-					{
-						"buffer_size": 857,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
 			"build_system_choices":
 			[
 				[
@@ -1283,6 +544,18 @@
 				"selected_items":
 				[
 					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git c",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add Current File"
+					],
+					[
 						"liv",
 						"LiveReload: Enable/disable plug-ins"
 					],
@@ -1307,20 +580,12 @@
 						"Package Control: Install Package"
 					],
 					[
-						"git push",
-						"Git: Push"
-					],
-					[
 						"git co",
 						"Git: Commit"
 					],
 					[
 						"git ad",
 						"Git: Add Current File"
-					],
-					[
-						"git c",
-						"Git: Commit"
 					],
 					[
 						"git add ",
@@ -1341,10 +606,6 @@
 					[
 						"git com",
 						"Git: Commit"
-					],
-					[
-						"git add",
-						"Git: Add Current File"
 					],
 					[
 						"git",
@@ -1458,12 +719,25 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/home/wcg/PycharmProjects/Hysteria/hysteria"
-			],
 			"file_history":
 			[
+				"/home/wcg/PycharmProjects/HTML/homework/marking-up-a-letter-start/letter-text.html",
+				"/home/wcg/PycharmProjects/HTML/homework/marking-up-a-letter-start/css.txt",
+				"/home/wcg/Blog/source/_posts/learn-html.md",
+				"/home/wcg/PycharmProjects/HTML/html/base.html",
+				"/home/wcg/PycharmProjects/HTML/html/style.css",
+				"/home/wcg/桌面/test.py",
+				"/home/wcg/PycharmProjects/HTML/project/index.html",
+				"/home/wcg/PycharmProjects/HTML/project/styles/style.css",
+				"/home/wcg/PycharmProjects/HTML/project/scripts/main.js",
+				"/home/wcg/PycharmProjects/HTML/html/head.html",
+				"/home/wcg/Blog/themes/next/_config.yml",
+				"/home/wcg/PycharmProjects/HTML/Web入门.md",
+				"/home/wcg/Blog/source/_posts/learn-vue.md",
+				"/home/wcg/Blog/source/_posts/learn-node.md",
+				"/home/wcg/Blog/source/_posts/learn-js.md",
+				"/home/wcg/Blog/source/_posts/learn-css.md",
+				"/home/wcg/桌面/ 大亲家/config",
 				"/home/wcg/.config/sublime-text-3/Packages/User/LiveReload.sublime-settings",
 				"/home/wcg/.config/sublime-text-3/Packages/LiveReload/LiveReload.sublime-settings",
 				"/home/wcg/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
@@ -1473,7 +747,6 @@
 				"/home/wcg/.config/sublime-text-3/Packages/User/.jsbeautifyrc",
 				"/home/wcg/.config/sublime-text-3/Packages/User/HTMLPrettify.sublime-settings",
 				"/home/wcg/PycharmProjects/HTML/README.md",
-				"/home/wcg/桌面/ 大亲家/config",
 				"/home/wcg/Blog/source/_posts/python-asyncio.md",
 				"/home/wcg/PycharmProjects/Test/fluent_python/元类.py",
 				"/home/wcg/PycharmProjects/Test/fluent_python/属性描述符.py",
@@ -1498,7 +771,6 @@
 				"/home/wcg/PycharmProjects/Test/fluent_python/asyncio.py",
 				"/home/wcg/PycharmProjects/Test/fluent_python/协程.py",
 				"/home/wcg/桌面/小程序/.directory",
-				"/home/wcg/Blog/themes/next/_config.yml",
 				"/home/wcg/software/wxappUnpacker/package-lock.json",
 				"/home/wcg/PycharmProjects/Test/fluent_python/flags2.py",
 				"/home/wcg/PycharmProjects/Test/fluent_python/期物.py",
@@ -1576,22 +848,7 @@
 				"/home/wcg/PycharmProjects/Hysteria/hysteria/celery_task.pyc",
 				"/home/wcg/Desktop/大亲家/key.md",
 				"/home/wcg/Desktop/大亲家/dist/views/index.html",
-				"/home/wcg/Desktop/大亲家/dist/styles/payment.css",
-				"/home/wcg/Desktop/大亲家/dist/public/payment.js",
-				"/home/wcg/Desktop/大亲家/dist/public/require.js",
-				"/home/wcg/Desktop/大亲家/dist/public/share.js",
-				"/home/wcg/Desktop/大亲家/dist/public/vip-phone.js",
-				"/home/wcg/Desktop/大亲家/dist/public/contant.js",
-				"/home/wcg/Desktop/大亲家/dist/public/wechat.js",
-				"/home/wcg/Desktop/大亲家/dist/views/payment.html",
-				"/home/wcg/Desktop/大亲家/dist/views/list.html",
-				"/home/wcg/Desktop/大亲家/dist/styles/list.css",
-				"/home/wcg/Desktop/大亲家/dist/styles/index.css",
-				"/home/wcg/.config/sublime-text-3/Packages/JsFormat/JsFormat.sublime-settings",
-				"/home/wcg/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
-				"/home/wcg/Desktop/大亲家/2E7DD5C0-0A0C-4634-8B0C-C5D37F6069A3.txt",
-				"/home/wcg/.cache/.fr-bRRjst/dist/public/share.js",
-				"/home/wcg/Desktop/大亲家/dist/views/share.html"
+				"/home/wcg/Desktop/大亲家/dist/styles/payment.css"
 			],
 			"find":
 			{
@@ -1632,102 +889,1009 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
+			"incremental_find":
+			{
+				"height": 31.9042871386
+			},
+			"input":
+			{
+				"height": 64.0
+			},
+			"menu_visible": false,
+			"output.autopep8":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 262.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 145.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 146.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 59.8205383848
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 475.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 361.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 218.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 806.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"crea",
+						"createIndex"
+					],
+					[
+						"ob",
+						"objectStore"
+					],
+					[
+						"do",
+						"document"
+					],
+					[
+						"pro",
+						"prototype"
+					],
+					[
+						"fu",
+						"fun\tFunction"
+					],
+					[
+						"pass",
+						"password"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"Do",
+						"document"
+					],
+					[
+						"min",
+						"min-width\tproperty"
+					],
+					[
+						"fi",
+						"fieldset\tTag"
+					],
+					[
+						"ca",
+						"caption\tTag"
+					],
+					[
+						"sub",
+						"subtitles"
+					],
+					[
+						"t",
+						"test\tfunction"
+					],
+					[
+						"tr",
+						"track\tTag"
+					],
+					[
+						"fo",
+						"footer\tTag"
+					],
+					[
+						"hea",
+						"header\tTag"
+					],
+					[
+						"Ma",
+						"Mailing_address"
+					],
+					[
+						"json",
+						"jsonUser\tstatement"
+					],
+					[
+						"js",
+						"jsonUser\tstatement"
+					],
+					[
+						"dum",
+						"dumps\tfunction"
+					],
+					[
+						"my",
+						"myHeading"
+					],
+					[
+						"set",
+						"setUserName"
+					],
+					[
+						"avat",
+						"avatar"
+					],
+					[
+						"num",
+						"num1"
+					],
+					[
+						"text-",
+						"text-align\tproperty"
+					],
+					[
+						"bac",
+						"background-color\tproperty"
+					],
+					[
+						"st",
+						"stylesheet"
+					],
+					[
+						"cls",
+						"cls_attrs\tstatement"
+					],
+					[
+						"_",
+						"__slots__"
+					],
+					[
+						"qty",
+						"qty_setter\tfunction"
+					],
+					[
+						"qu",
+						"quantity"
+					],
+					[
+						"str",
+						"storage_name"
+					],
+					[
+						"sx",
+						"sx_education\tstatement"
+					],
+					[
+						"Mu",
+						"MutableSequence\tclass"
+					],
+					[
+						"class",
+						"classmethod\tclass"
+					],
+					[
+						"resp",
+						"respones3\tstatement"
+					],
+					[
+						"req",
+						"request3\tstatement"
+					],
+					[
+						"res",
+						"response2\tstatement"
+					],
+					[
+						"as",
+						"asyncio\tmodule"
+					],
+					[
+						"spin",
+						"spinner\tstatement"
+					],
+					[
+						"exe",
+						"executor\tstatement"
+					],
+					[
+						"cc",
+						"cc_list"
+					],
+					[
+						"read",
+						"readline\tfunction"
+					],
+					[
+						"d6",
+						"d6_iter\tstatement"
+					],
+					[
+						"sm",
+						"sample\tstatement"
+					],
+					[
+						"iter",
+						"itertools\tmodule"
+					],
+					[
+						"cal",
+						"calculate_key"
+					],
+					[
+						"pac",
+						"package_name"
+					],
+					[
+						"pa",
+						"package_name"
+					],
+					[
+						"date",
+						"datetime\tclass"
+					],
+					[
+						"s",
+						"s_timt\tstatement"
+					],
+					[
+						"cres",
+						"create_multipliers\tfunction"
+					],
+					[
+						"CL",
+						"COLUMN"
+					],
+					[
+						"A",
+						"AUTO_INCREMENT"
+					],
+					[
+						"rest",
+						"resetBotton"
+					],
+					[
+						"txt",
+						"textContent"
+					],
+					[
+						"text",
+						"textContent"
+					],
+					[
+						"random",
+						"randomNumber"
+					],
+					[
+						"gu",
+						"guessField"
+					],
+					[
+						"low",
+						"lowOrHi"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					],
+					[
+						"creat",
+						"createParagraph"
+					],
+					[
+						"du",
+						"dumps\tfunction"
+					],
+					[
+						"Is",
+						"IsAdminUser"
+					],
+					[
+						"per",
+						"permission_classes\tstatement"
+					],
+					[
+						"api",
+						"api_view"
+					],
+					[
+						"redis",
+						"redisChat"
+					],
+					[
+						"loc",
+						"locat\tstatement"
+					],
+					[
+						"loca",
+						"locations"
+					],
+					[
+						"lo",
+						"locations\tstatement"
+					],
+					[
+						"img",
+						"imageUri"
+					],
+					[
+						"csr",
+						"csrf_exempt\tmodule"
+					],
+					[
+						"si",
+						"signTimestamp\tstatement"
+					],
+					[
+						"rcl",
+						"rcloud\tstatement"
+					],
+					[
+						"status",
+						"status_code\tstatement"
+					],
+					[
+						"sign",
+						"signature"
+					],
+					[
+						"get",
+						"getToken\tfunction"
+					],
+					[
+						"stat",
+						"status\tmodule"
+					],
+					[
+						"R",
+						"Response\tclass"
+					],
+					[
+						"sy",
+						"syncMessage\tfunction"
+					],
+					[
+						"app",
+						"app_secret"
+					],
+					[
+						"n",
+						"nonce\tparam"
+					],
+					[
+						"tim",
+						"timestamp\tstatement"
+					],
+					[
+						"padding",
+						"padding-left"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"ma",
+						"matches\tstatement"
+					],
+					[
+						"des",
+						"des2\tstatement"
+					],
+					[
+						"Kme",
+						"KMeansClassifier\tclass"
+					],
+					[
+						"Km",
+						"KMeansClassifier\tclass"
+					],
+					[
+						"descrop",
+						"descriptors\tstatement"
+					],
+					[
+						"action",
+						"ActionChains\tmodule"
+					],
+					[
+						"merge",
+						"merge_pdf\tfunction"
+					],
+					[
+						"fin",
+						"find_all"
+					],
+					[
+						"op",
+						"options\tstatement"
+					],
+					[
+						"Time",
+						"TimeoutException\tmodule"
+					],
+					[
+						"html",
+						"html2text\tmodule"
+					],
+					[
+						"par",
+						"parse_url_to_html\tfunction"
+					],
+					[
+						"deco",
+						"decorated_function"
+					],
+					[
+						"mim",
+						"minimumTotal\tfunction"
+					],
+					[
+						"to_",
+						"to_user_username\tstatement"
+					],
+					[
+						"conver",
+						"conversations\tstatement"
+					],
+					[
+						"conversations",
+						"get_conversations"
+					],
+					[
+						"act",
+						"active_conversation\tstatement"
+					],
+					[
+						"has",
+						"has_accepted_answer"
+					],
+					[
+						"HttpR",
+						"HttpResponse\tmodule"
+					],
+					[
+						"ar",
+						"article"
+					],
+					[
+						"pu",
+						"popular_tags\tstatement"
+					],
+					[
+						"upl",
+						"uploader"
+					],
+					[
+						"bootcamp",
+						"bootcamp2\tmodule"
+					],
+					[
+						"from",
+						"from_feed\tparam"
+					],
+					[
+						"Base",
+						"BASE_DIR\tstatement"
+					],
+					[
+						"Ya",
+						"YaHei"
+					],
+					[
+						"SOCK_S",
+						"SOCK_STREAM\tinstance"
+					],
+					[
+						"rang",
+						"range\tfunction"
+					]
+				]
+			},
+			"buffers":
 			[
-				{
-					"path": "/home/wcg/PycharmProjects/Hysteria/hysteria"
-				}
 			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Anaconda Python Builder",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Anaconda Python Builder",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/myc++.sublime-build",
+							""
+						],
+						[
+							"Packages/User/myc++.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/myc++.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 349.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"view",
+						"View: Toggle Menu"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git c",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add Current File"
+					],
+					[
+						"liv",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"live",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"LiveReload: Enable/disable plugins",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"liveReload",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"git co",
+						"Git: Commit"
+					],
+					[
+						"git ad",
+						"Git: Add Current File"
+					],
+					[
+						"git add ",
+						"Git: Add Current File"
+					],
+					[
+						"git pu",
+						"Git: Push"
+					],
+					[
+						"git a",
+						"Git: Add Current File"
+					],
+					[
+						"git comi",
+						"Git: Commit"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git",
+						"Git: Gui"
+					],
+					[
+						"git l",
+						"Git: Log All"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"git p",
+						"Git: Push"
+					],
+					[
+						"git pus",
+						"Git: Push"
+					],
+					[
+						"gitc",
+						"Git: Commit"
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"Package Control: up",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: i",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: re",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					],
+					[
+						"run",
+						"Build With: C++ Single File - Run"
+					],
+					[
+						"table",
+						"Table Editor: Enable for current view"
+					],
+					[
+						"evernote",
+						"Evernote: List recent notes"
+					],
+					[
+						"co",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"predawn",
+						"Preferences: MarkdownEditing Settings – User"
+					],
+					[
+						"color",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"Packager",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"packager",
+						"PackageResourceViewer: Open Resource"
+					]
+				],
+				"width": 505.0
+			},
+			"console":
+			{
+				"height": 504.0,
+				"history":
+				[
+					"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect(/home/vgreen/.local/share/anaconda/run/flask/anaconda.sock)",
+					"PackageResourceViewer",
+					"PackageResourceViewer:",
+					"PackageResourceViewer: Open Resource:",
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/wcg/Blog/source/_posts/learn-css.md",
+				"/home/wcg/Blog/source/_posts/learn-node.md",
+				"/home/wcg/Blog/db.json",
+				"/home/wcg/Blog/package.json",
+				"/home/wcg/PycharmProjects/HTML/project/hello.js",
+				"/home/wcg/Blog/source/_posts/learn-js.md",
+				"/home/wcg/桌面/test.py",
+				"/home/wcg/Blog/source/_posts/learn-vue.md",
+				"/home/wcg/Blog/themes/next/layout/_partials/footer.swig",
+				"/home/wcg/Blog/themes/next/_config.yml",
+				"/home/wcg/Blog/_config.yml",
+				"/home/wcg/Blog/scaffolds/post.md",
+				"/home/wcg/Blog/source/_posts/work-working.md",
+				"/home/wcg/Blog/themes/next/layout/_partials/head.swig",
+				"/home/wcg/Blog/source/_posts/work-resume.md",
+				"/home/wcg/Blog/source/_posts/work-interview.md",
+				"/home/wcg/Blog/source/_posts/summary-2017.md",
+				"/home/wcg/Blog/scaffolds/page.md",
+				"/home/wcg/Blog/scaffolds/draft.md",
+				"/home/wcg/Blog/themes/next/package.json",
+				"/home/wcg/Blog/themes/next/layout/post.swig",
+				"/home/wcg/Blog/source/_posts/learn-html.md",
+				"/home/wcg/Blog/source/_posts/frp.md",
+				"/home/wcg/software/frp_0.21.0_linux_amd64/hysteria.ini",
+				"/home/wcg/software/frp_0.21.0_linux_amd64/itswcg.ini",
+				"/home/wcg/software/frp_0.21.0_linux_amd64/frpc_full.ini",
+				"/home/wcg/software/frp_0.21.0_linux_amd64/frpc.ini",
+				"/home/wcg/下载/Python/WXBizDataCrypt.py",
+				"/home/wcg/下载/Python/demo.py",
+				"/tmp/ark-XMqGPu/Python/WXBizDataCrypt.py",
+				"/tmp/ark-zuTsFV/Python/demo.py",
+				"/home/wcg/桌面/start_test.py",
+				"/home/wcg/桌面/audio_test.py",
+				"/home/wcg/Blog/source/_posts/mysql.md",
+				"/home/wcg/PycharmProjects/HTML/homework/forms/payment-form.css",
+				"/home/wcg/PycharmProjects/HTML/homework/forms/index.html",
+				"/home/wcg/桌面/小程序/laohuangli/project.config.json",
+				"/home/wcg/桌面/小程序/remen1/app.json",
+				"/home/wcg/桌面/小程序/remen1/app-config.json",
+				"/home/wcg/桌面/小程序/remen/project.config.json",
+				"/home/wcg/桌面/小程序/remen1/app-service.js",
+				"/home/wcg/桌面/小程序/remen1/page-frame.html",
+				"/home/wcg/桌面/小程序/remen1/app.wxss",
+				"/home/wcg/桌面/小程序/remen1/app.js",
+				"/home/wcg/桌面/小程序/remen/app-config.json",
+				"/home/wcg/桌面/ 大亲家/config",
+				"/home/wcg/PycharmProjects/HTML/homework/assets/index.html",
+				"/home/wcg/PycharmProjects/HTML/homework/marking-up-a-letter-start/letter-text.html",
+				"/home/wcg/PycharmProjects/HTML/homework/marking-up-a-letter-start/css.txt",
+				"/home/wcg/PycharmProjects/HTML/html/base.html",
+				"/home/wcg/PycharmProjects/HTML/html/style.css",
+				"/home/wcg/PycharmProjects/HTML/project/index.html",
+				"/home/wcg/PycharmProjects/HTML/project/styles/style.css",
+				"/home/wcg/PycharmProjects/HTML/project/scripts/main.js",
+				"/home/wcg/PycharmProjects/HTML/html/head.html",
+				"/home/wcg/PycharmProjects/HTML/Web入门.md",
+				"/home/wcg/.config/sublime-text-3/Packages/User/LiveReload.sublime-settings",
+				"/home/wcg/.config/sublime-text-3/Packages/LiveReload/LiveReload.sublime-settings",
+				"/home/wcg/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/home/wcg/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+				"/home/wcg/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/Default (Linux).sublime-keymap",
+				"/home/wcg/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/wcg/.config/sublime-text-3/Packages/User/.jsbeautifyrc",
+				"/home/wcg/.config/sublime-text-3/Packages/User/HTMLPrettify.sublime-settings",
+				"/home/wcg/PycharmProjects/HTML/README.md",
+				"/home/wcg/Blog/source/_posts/python-asyncio.md",
+				"/home/wcg/PycharmProjects/Test/fluent_python/元类.py",
+				"/home/wcg/PycharmProjects/Test/fluent_python/属性描述符.py",
+				"/home/wcg/PycharmProjects/Test/fluent_python/test.py",
+				"/home/wcg/PycharmProjects/Test/fluent_python/元编程.py",
+				"/home/wcg/PycharmProjects/hysteria-chat-sync/app/models.py",
+				"/home/wcg/PycharmProjects/hysteria-chat-sync/app/views.py",
+				"/home/wcg/PycharmProjects/blog/aiohttpdemo_blog/views.py",
+				"/home/wcg/PycharmProjects/blog/aiohttpdemo_blog/routes.py",
+				"/home/wcg/PycharmProjects/blog/aiohttpdemo_blog/db.py",
+				"/home/wcg/PycharmProjects/blog/aiohttpdemo_blog/main.py",
+				"/home/wcg/PycharmProjects/blog/config/user_config.toml",
+				"/home/wcg/PycharmProjects/hysteria-chat-sync-aiohttp/sync/db.py",
+				"/home/wcg/PycharmProjects/hysteria-chat-sync/app/admin.py",
+				"/home/wcg/PycharmProjects/Test/fluent_python/async.py",
+				"/home/wcg/PycharmProjects/Test/fluent_python/aiohttp.py",
+				"/home/wcg/PycharmProjects/blog/requirements.txt",
+				"/home/wcg/PycharmProjects/blog/aiohttpdemo_blog/db_auth.py",
+				"/home/wcg/PycharmProjects/blog/aiohttpdemo_blog/settings.py",
+				"/home/wcg/PycharmProjects/blog/config/admin_config.toml",
+				"/home/wcg/PycharmProjects/blog/config/test_config.toml",
+				"/home/wcg/PycharmProjects/Test/fluent_python/asyncio.py",
+				"/home/wcg/PycharmProjects/Test/fluent_python/协程.py",
+				"/home/wcg/桌面/小程序/.directory",
+				"/home/wcg/software/wxappUnpacker/package-lock.json",
+				"/home/wcg/PycharmProjects/Test/fluent_python/flags2.py",
+				"/home/wcg/PycharmProjects/Test/fluent_python/期物.py",
+				"/home/wcg/Blog/source/_posts/djangorestframework-page-cache.md",
+				"/home/wcg/Blog/source/_posts/nginx.md",
+				"/home/wcg/PycharmProjects/Test/fluent_python/with.py",
+				"/usr/lib/python3.7/contextlib.py",
+				"/home/wcg/PycharmProjects/Test/fluent_python/else.py",
+				"/home/wcg/PycharmProjects/Test/fluent_python/可迭代的归约函数.py",
+				"/home/wcg/package-lock.json",
+				"/home/wcg/桌面/daqinjia/api/api.js",
+				"/home/wcg/桌面/unwxapkg.py",
+				"/home/wcg/桌面/daqinjia.wxapkg_dir/pages/hangOut.html",
+				"/home/wcg/桌面/daqinjia.wxapkg_dir/pages/note.html",
+				"/home/wcg/桌面/daqinjia.wxapkg_dir/app-config.json",
+				"/home/wcg/桌面/daqinjia.wxapkg_dir/app-service.js",
+				"/home/wcg/桌面/daqinjia.wxapkg_dir/page-frame.html",
+				"/home/wcg/桌面/daqinjia.wxapkg_dir/pages/index.html",
+				"/home/wcg/桌面/daqinjia.wxapkg_dir/pages/chooseSex.html",
+				"/home/wcg/Blog/source/_posts/linux.md",
+				"/home/wcg/PycharmProjects/Test/fluent_python/内置生成器函数.py",
+				"/desktopfs-pkgs.txt",
+				"/home/wcg/PycharmProjects/Test/fluent_python/生成器.py",
+				"/home/wcg/PycharmProjects/Test/fluent_python/pop.py",
+				"/home/wcg/PycharmProjects/Test/fluent_python/tuple.py",
+				"/home/wcg/PycharmProjects/Hysteria/hysteria/apps/find/views.py",
+				"/home/wcg/PycharmProjects/Hysteria/hysteria/apps/api/urls.py",
+				"/home/wcg/PycharmProjects/Hysteria/hysteria/apps/find/constants.py",
+				"/home/wcg/PycharmProjects/Test/fluent_python/多重继承.py",
+				"/home/wcg/PycharmProjects/HTML/html/number-guessing-game-start.html",
+				"/home/wcg/.config/sublime-text-3/Packages/Anaconda/Default (Linux).sublime-keymap",
+				"/home/wcg/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+				"/home/wcg/PycharmProjects/Test/fluent_python/猴子补丁.py",
+				"/home/wcg/PycharmProjects/Test/fluent_python/map-reduce.py",
+				"/home/wcg/Blog/source/_posts/django-command.md",
+				"/home/wcg/Blog/source/_posts/dajangorestframework-page-cache.md",
+				"/home/wcg/PycharmProjects/Test/fluent_python/average.py",
+				"/home/wcg/PycharmProjects/Test/fluent_python/元组的相对不可变.py",
+				"/home/wcg/PycharmProjects/Test/fluent_python/字符.py"
+			],
+			"find":
+			{
+				"height": 31.9042871386
+			},
+			"find_in_files":
+			{
+				"height": 169.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"name",
+					"member2Name",
+					"footer",
+					"reward",
+					"resward",
+					"baidu",
+					"disqus",
+					"rss",
+					"plugin",
+					"feed",
+					"syntax on"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
 			"groups":
 			[
 				{
-					"selected": 1,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/home/wcg/PycharmProjects/HTML/Web入门.md",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 256,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										256,
-										256
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/home/wcg/PycharmProjects/HTML/project/index.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 527,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										321,
-										321
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/HTML/HTML.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/home/wcg/PycharmProjects/HTML/project/styles/style.css",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 857,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										857,
-										857
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/CSS/CSS.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 449.651046859,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						}
 					]
 				}
 			],
@@ -1768,7 +1932,7 @@
 			},
 			"output.exec":
 			{
-				"height": 214.0
+				"height": 262.0
 			},
 			"output.find_results":
 			{
@@ -1783,7 +1947,7 @@
 				"height": 146.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,1001,149,1807,1095,1920,1080",
+			"position": "0,0,0,0,0,590,86,1396,970,1920,1080",
 			"project": "",
 			"replace":
 			{
@@ -1830,7 +1994,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 100,
+			"window_id": 121,
 			"workspace_name": ""
 		}
 	],
