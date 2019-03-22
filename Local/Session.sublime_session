@@ -1766,6 +1766,10 @@
 				"selected_items":
 				[
 					[
+						"vi",
+						"View: Toggle Menu"
+					],
+					[
 						"Package Control: in",
 						"Package Control: Install Package"
 					],
@@ -1791,10 +1795,6 @@
 					],
 					[
 						"vie",
-						"View: Toggle Menu"
-					],
-					[
-						"vi",
 						"View: Toggle Menu"
 					],
 					[
@@ -1968,6 +1968,9 @@
 			"file_history":
 			[
 				"/home/wcg/桌面/main.go",
+				"/home/wcg/.config/sublime-text-3/README.md",
+				"/home/wcg/桌面/test.py",
+				"/home/wcg/桌面/hh.js",
 				"/home/wcg/.config/sublime-text-3/Packages/User/Gbuild.sublime-build",
 				"/home/wcg/.config/sublime-text-3/Packages/User/go.sublime-build",
 				"/home/wcg/.config/sublime-text-3/Packages/User/GoSublime.sublime-settings",
@@ -1977,8 +1980,6 @@
 				"/home/wcg/go/src/github.com/astaxie/beego/cache/redis/redis.go",
 				"/home/wcg/桌面/ 大亲家/数据/pic.json",
 				"/home/wcg/桌面/ 大亲家/jshareinstall-注释版.js",
-				"/home/wcg/桌面/test.py",
-				"/home/wcg/桌面/hh.js",
 				"/home/wcg/桌面/ 大亲家/数据/upload.py",
 				"/home/wcg/桌面/ 大亲家/数据/dir.py",
 				"/home/wcg/桌面/ 大亲家/数据/boy.json",
@@ -2093,8 +2094,7 @@
 				"/home/wcg/PycharmProjects/learn-koa/controller.js",
 				"/home/wcg/PycharmProjects/learn-koa/package.json",
 				"/home/wcg/PycharmProjects/learn-koa/.gitignore",
-				"/home/wcg/PycharmProjects/learn-koa/package-lock.json",
-				"/home/wcg/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap"
+				"/home/wcg/PycharmProjects/learn-koa/package-lock.json"
 			],
 			"find":
 			{
@@ -2222,7 +2222,7 @@
 			},
 			"output.exec":
 			{
-				"height": 528.0
+				"height": 168.0
 			},
 			"output.find_results":
 			{
