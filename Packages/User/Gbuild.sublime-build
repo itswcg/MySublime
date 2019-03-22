@@ -1,0 +1,6 @@
+{
+    "cmd": ["go run '${file}'"],
+    "selector": "source.go",
+    "path": "/home/wcg/.gvm/gos/go1.12/bin/",
+    "shell": true
+}

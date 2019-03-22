@@ -1,0 +1,6 @@
+{
+    "env": {
+        "GOROOT": "/home/wcg/.gvm/gos/go1.12",
+        "GOPATH": "/home/wcg/go"
+    }
+}

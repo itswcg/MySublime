@@ -22,5 +22,9 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"Table Editor"
-	]
+	],
+	"channels":
+    [
+        "http://static.bolin.site/channel_v3.json"
+    ]
 }
