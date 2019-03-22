@@ -10,4 +10,4 @@ ctrl+alt+l 格式化
 ...
 
 ### 效果
-![](https://github.com/itswcg/MySublime/screen.png)
+![](https://github.com/itswcg/MySublime/blob/master/screen.png)
