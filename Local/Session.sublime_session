@@ -1135,6 +1135,138 @@
 				"selected_items":
 				[
 					[
+						"fe",
+						"field_2"
+					],
+					[
+						"f",
+						"field_2"
+					],
+					[
+						"feid",
+						"field_1"
+					],
+					[
+						"spe",
+						"special_hello\tstatement"
+					],
+					[
+						"si",
+						"simple_hello\tstatement"
+					],
+					[
+						"It",
+						"ItalicWrapper\tclass"
+					],
+					[
+						"w",
+						"wrapped\tparam"
+					],
+					[
+						"D",
+						"DrawingApi1"
+					],
+					[
+						"dra",
+						"drawing_api\tparam"
+					],
+					[
+						"o",
+						"obj\tstatement"
+					],
+					[
+						"ad",
+						"adapted_methods\tparam"
+					],
+					[
+						"get",
+						"get_prouduct_informatin\tfunction"
+					],
+					[
+						"pro",
+						"product\tstatement"
+					],
+					[
+						"pr",
+						"product_list\tfunction"
+					],
+					[
+						"prod",
+						"products"
+					],
+					[
+						"re",
+						"register_object\tfunction"
+					],
+					[
+						"Pro",
+						"PrototypeDispatcher\tclass"
+					],
+					[
+						"sa",
+						"sample_queue\tstatement"
+					],
+					[
+						"lazy",
+						"lazy_property2\tfunction"
+					],
+					[
+						"la",
+						"lazy_property\tclass"
+					],
+					[
+						"B",
+						"Borg\tstatement"
+					],
+					[
+						"NotIm",
+						"NotImplementedError\tclass"
+					],
+					[
+						"De",
+						"DevConfig\tclass"
+					],
+					[
+						"pet",
+						"pet_factory"
+					],
+					[
+						"ac",
+						"animal_factory\tparam"
+					],
+					[
+						"gr",
+						"group_id"
+					],
+					[
+						"err",
+						"error_count"
+					],
+					[
+						"er",
+						"error_count"
+					],
+					[
+						"Lo",
+						"Log_file"
+					],
+					[
+						"L",
+						"Log_file"
+					],
+					[
+						"Log",
+						"Log_dir"
+					],
+					[
+						"error",
+						"error_msg"
+					],
+					[
+						"ms",
+						"error_msg"
+					],
+					[
 						"al",
 						"all_per"
 					],
@@ -1147,16 +1279,8 @@
 						"introduction"
 					],
 					[
-						"o",
-						"occupation"
-					],
-					[
 						"r",
 						"residence"
-					],
-					[
-						"re",
-						"rec_info\tstatement"
 					],
 					[
 						"sec",
@@ -1177,10 +1301,6 @@
 					[
 						"CU",
 						"customers"
-					],
-					[
-						"si",
-						"signValidate\tfunction"
 					],
 					[
 						"ha",
@@ -1213,10 +1333,6 @@
 					[
 						"b64",
 						"b64decode\tfunction"
-					],
-					[
-						"pr",
-						"processed\tstatement"
 					],
 					[
 						"pa",
@@ -1285,10 +1401,6 @@
 					[
 						"dr",
 						"draw2\tstatement"
-					],
-					[
-						"sa",
-						"save_img\tstatement"
 					],
 					[
 						"Ima",
@@ -1367,10 +1479,6 @@
 						"put_file\tfunction"
 					],
 					[
-						"get",
-						"get_images\tfunction"
-					],
-					[
 						"a",
 						"append\tfunction"
 					],
@@ -1397,10 +1505,6 @@
 					[
 						"O",
 						"Options"
-					],
-					[
-						"w",
-						"webdriver\tmodule"
 					],
 					[
 						"fo",
@@ -1483,10 +1587,6 @@
 						"objectStore"
 					],
 					[
-						"pro",
-						"prototype"
-					],
-					[
 						"pass",
 						"password"
 					],
@@ -1545,111 +1645,20 @@
 					[
 						"avat",
 						"avatar"
-					],
-					[
-						"num",
-						"num1"
-					],
-					[
-						"text-",
-						"text-align\tproperty"
-					],
-					[
-						"st",
-						"stylesheet"
-					],
-					[
-						"cls",
-						"cls_attrs\tstatement"
-					],
-					[
-						"_",
-						"__slots__"
-					],
-					[
-						"qty",
-						"qty_setter\tfunction"
-					],
-					[
-						"str",
-						"storage_name"
-					],
-					[
-						"sx",
-						"sx_education\tstatement"
-					],
-					[
-						"Mu",
-						"MutableSequence\tclass"
-					],
-					[
-						"class",
-						"classmethod\tclass"
-					],
-					[
-						"resp",
-						"respones3\tstatement"
-					],
-					[
-						"req",
-						"request3\tstatement"
-					],
-					[
-						"res",
-						"response2\tstatement"
-					],
-					[
-						"as",
-						"asyncio\tmodule"
-					],
-					[
-						"spin",
-						"spinner\tstatement"
-					],
-					[
-						"exe",
-						"executor\tstatement"
-					],
-					[
-						"cc",
-						"cc_list"
-					],
-					[
-						"read",
-						"readline\tfunction"
-					],
-					[
-						"d6",
-						"d6_iter\tstatement"
-					],
-					[
-						"sm",
-						"sample\tstatement"
-					],
-					[
-						"iter",
-						"itertools\tmodule"
-					],
-					[
-						"cal",
-						"calculate_key"
-					],
-					[
-						"pac",
-						"package_name"
-					],
-					[
-						"date",
-						"datetime\tclass"
-					],
-					[
-						"cres",
-						"create_multipliers\tfunction"
 					]
 				]
 			},
 			"buffers":
 			[
+				{
+					"file": "/home/wcg/Blog/source/_posts/python-patterns.md",
+					"settings":
+					{
+						"buffer_size": 10641,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -1995,15 +2004,45 @@
 			],
 			"file_history":
 			[
-				"/home/wcg/桌面/test.py",
+				"/home/wcg/桌面/应对服务通知带来的瞬时流量.md",
+				"/home/wcg/桌面/目前遇到的问题.md",
+				"/home/wcg/桌面/wyvern.ini.txt",
+				"/home/wcg/桌面/推荐的sql语句.sql",
+				"/home/wcg/桌面/insert.sql",
 				"/home/wcg/桌面/log.md",
+				"/home/wcg/桌面/qcard_group.xls",
+				"/home/wcg/桌面/应对服务通知带来的流量.md",
+				"/home/wcg/Blog/source/_posts/mysql.md",
+				"/home/wcg/桌面/recommend.sql",
+				"/tmp/ark-cJatNF/wyvern-centos7-server-config/id_rsa.pub",
+				"/home/wcg/桌面/linux.md",
+				"/home/wcg/桌面/recommend.py",
+				"/home/wcg/Blog/source/_posts/mysql-transaction.md",
+				"/home/wcg/Blog/source/_posts/django-MultipleObjectsReturned.md",
+				"/tmp/ark-cfwvsm/wyvern-centos7-server-config/id_rsa.pub",
+				"/tmp/ark-qpDuXQ/wyvern-centos7-server-config/id_rsa.pub",
+				"/home/wcg/Blog/source/_posts/celery-beat.md",
+				"/home/wcg/PycharmProjects/wyvern/wyvern/apps/qcard/utils.py",
+				"/home/wcg/PycharmProjects/wyvern/wyvern/apps/core/constants.py",
+				"/home/wcg/PycharmProjects/wyvern/wyvern/apps/qcard/constants.py",
+				"/home/wcg/software/frp_0.21.0_linux_amd64/wyvern-ls.ini",
+				"/home/wcg/Blog/source/_posts/python-algorithms.md",
+				"/home/wcg/桌面/log_err.sh",
+				"/home/wcg/桌面/sql.sql",
+				"/home/wcg/PycharmProjects/Rules/DevNotes/Backend/README.md",
+				"/home/wcg/PycharmProjects/Rules/DevNotes/README.md",
+				"/home/wcg/桌面/err.sh",
+				"/home/wcg/桌面/send_ding.sh",
+				"/home/wcg/下载/TXLiveSDK.licence",
+				"/home/wcg/PycharmProjects/Rules/DevNotes/Backend/wangcaigui.md",
+				"/home/wcg/桌面/test.py",
+				"/home/wcg/桌面/celerybeat-schedule",
 				"/home/wcg/go/src/config/v2ray/client.json",
 				"/home/wcg/go/src/config/v2ray/service.json",
 				"/home/wcg/桌面/hhh",
 				"/home/wcg/software/v2ray/config.json",
 				"/home/wcg/桌面/group_num_between_1_and_2.xls",
 				"/home/wcg/桌面/configData.js",
-				"/home/wcg/Blog/source/_posts/mysql.md",
 				"/home/wcg/桌面/qcard_qcard_31.sql",
 				"/home/wcg/桌面/qcard_users.sql",
 				"/home/wcg/go/src/LeetCode/字符串/20.有效的字符串/README.md",
@@ -2070,7 +2109,6 @@
 				"/home/wcg/go/src/gRPC-demo/python/client.py",
 				"/home/wcg/Blog/source/_posts/microservices.md",
 				"/home/wcg/Blog/source/_posts/distributed-system.md",
-				"/home/wcg/software/frp_0.21.0_linux_amd64/wyvern-ls.ini",
 				"/home/wcg/Blog/source/_posts/2019-05-14.md",
 				"/home/wcg/桌面/nginx.conf",
 				"/home/wcg/桌面/wxapp.daqinjia.cn.conf",
@@ -2093,36 +2131,7 @@
 				"/home/wcg/go/src/learn-go/xie.go",
 				"/home/wcg/go/src/studio/models/article.go",
 				"/home/wcg/go/src/studio/models/user.go",
-				"/home/wcg/go/src/studio/models/api.go",
-				"/home/wcg/go/src/studio/views/rpcxml/response_edit_post.xml",
-				"/home/wcg/go/src/studio/views/rpcxml/response_get_post.xml",
-				"/home/wcg/go/src/studio/control.sh",
-				"/home/wcg/go/src/studio/conf/app.conf",
-				"/home/wcg/go/src/studio/controllers/admin/user.go",
-				"/home/wcg/go/src/studio/conf/ueditor.json",
-				"/home/wcg/go/src/studio/controllers/admin_base.go",
-				"/home/wcg/Blog/source/_posts/linux.md",
-				"/home/wcg/go/src/samples/todo/main.go",
-				"/home/wcg/go/src/samples/todo/models/task.go",
-				"/home/wcg/go/src/samples/todo/controllers/default.go",
-				"/home/wcg/go/src/samples/WebIM/controllers/chatroom.go",
-				"/home/wcg/go/src/samples/WebIM/conf/locale_zh-CN.ini",
-				"/home/wcg/Blog/source/_posts/GNU-Linux.md",
-				"/home/wcg/桌面/main.go",
-				"/home/wcg/.config/sublime-text-3/Packages/User/GoSublime.sublime-settings",
-				"/home/wcg/.config/sublime-text-3/Packages/GoSublime/GoSublime.sublime-settings",
-				"/home/wcg/.config/sublime-text-3/README.md",
-				"/home/wcg/桌面/hh.js",
-				"/home/wcg/.config/sublime-text-3/Packages/User/Gbuild.sublime-build",
-				"/home/wcg/.config/sublime-text-3/Packages/User/go.sublime-build",
-				"/home/wcg/.config/sublime-text-3/Packages/GoSublime/USAGE.md",
-				"/home/wcg/.config/sublime-text-3/Packages/GoSublime/CHANGELOG.md",
-				"/home/wcg/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
-				"/home/wcg/go/src/github.com/astaxie/beego/cache/redis/redis.go",
-				"/home/wcg/桌面/ 大亲家/数据/pic.json",
-				"/home/wcg/桌面/ 大亲家/jshareinstall-注释版.js",
-				"/home/wcg/桌面/ 大亲家/数据/upload.py",
-				"/home/wcg/桌面/ 大亲家/数据/dir.py"
+				"/home/wcg/go/src/studio/models/api.go"
 			],
 			"find":
 			{
@@ -2140,6 +2149,9 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"wyvern.settings.prod",
+					"wyvern-prod",
+					"SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None",
 					"django_CONFIG",
 					"hysteria"
 				],
@@ -2165,8 +2177,56 @@
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/home/wcg/Blog/source/_posts/python-patterns.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10641,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										10641,
+										10641
+									]
+								],
+								"settings":
+								{
+									"auto_complete_triggers":
+									[
+										{
+											"characters": ".",
+											"selector": "source.go - comment - string"
+										},
+										{
+											"characters": ".",
+											"selector": "source.python - string - constant.numeric"
+										},
+										{
+											"characters": ".",
+											"selector": "source.python - string - constant.numeric"
+										},
+										{
+											"characters": ".",
+											"selector": "source.python - string - constant.numeric"
+										}
+									],
+									"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 12168.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
 					]
 				}
 			],
